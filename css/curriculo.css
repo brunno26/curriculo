@@ -83,15 +83,6 @@ body {
   border-radius: 10px;
 }
 
-.skills span {
-  display: inline-block;
-  background: #3b82f6;
-  color: white;
-  padding: 5px 10px;
-  border-radius: 20px;
-  margin: 5px 5px 0 0;
-  font-size: 13px;
-}
 
 /* CARDS */
 .card {
@@ -130,7 +121,7 @@ body {
 }
 
 /* BOTÃO DARK MODE */
-#darkTema {
+#toggle {
   margin-top: 15px;
   padding: 8px 12px;
   border: none;
