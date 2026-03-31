@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const botao = document.getElementById("darkTema");
+  const botao = document.getElementById("toggle");
 
   if (botao) {
     botao.addEventListener("click", function () {
