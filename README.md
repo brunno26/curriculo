@@ -14,7 +14,6 @@ Criei um currículo online com o objetivo de apresentar minhas informações pro
 Praticar estruturação de páginas web, estilização com CSS, aplicação de modo escuro com java script.
 
 ## 📷 Preview
-## 📷 Preview
 
 | 🌞 Modo Claro | 🌙 Modo Escuro |
 |--------------|---------------|
