@@ -14,10 +14,11 @@ Criei um currículo online com o objetivo de apresentar minhas informações pro
 Praticar estruturação de páginas web, estilização com CSS, aplicação de modo escuro com java script.
 
 ## 📷 Preview
+## 📷 Preview
 
 | 🌞 Modo Claro | 🌙 Modo Escuro |
 |--------------|---------------|
 | ![](./img/curriculo-modo-claro.png) | ![](./img/curriculo-modo-escuro.png) |
 
 ## 🔗 Acesso ao projeto
-brunno26.github.io/curriculo/
+https://brunno26.github.io/curriculo/
