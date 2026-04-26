@@ -83,7 +83,6 @@ body {
   border-radius: 10px;
 }
 
-
 /* CARDS */
 .card {
   background: white;
@@ -91,6 +90,7 @@ body {
   margin-bottom: 20px;
   border-radius: 20px;
   transition: 0.3s;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
 }
 
 .card:hover {
@@ -116,10 +116,6 @@ body {
   line-height: 1.6;
 }
 
-.card {
-  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
-}
-
 /* BOTÃO DARK MODE */
 #toggle {
   margin-top: 15px;
@@ -129,6 +125,23 @@ body {
   background: #3b82f6;
   color: white;
   cursor: pointer;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #111;
+  color: white;
+}
+
+.social-links a {
+  margin: 0 10px;
+  color: #00bcd4;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
 }
 
 /* DARK MODE */
@@ -143,6 +156,14 @@ body.dark .card {
 }
 
 body.dark h2 {
+  color: #38bdf8;
+}
+
+body.dark .card h3 {
+  color: #e2e8f0;
+}
+
+body.dark .sidebar h3 {
   color: #38bdf8;
 }
 
